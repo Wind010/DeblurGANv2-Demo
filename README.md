@@ -6,6 +6,12 @@ Orest Kupyn, Tetiana Martyniuk, Junru Wu, Zhangyang Wang
 
 In ICCV 2019
 
+## Colab Demo
+
+Easily test network in Colab: [https://github.com/silkdom/DeblurGANv2-Demo/blob/master/DeblurGANv2_Demo.ipynb](https://github.com/silkdom/DeblurGANv2-Demo/blob/master/DeblurGANv2_Demo.ipynb)  
+
+[![Run in Google Colab](https://img.shields.io/badge/Colab-Run_in_Google_Colab-blue?logo=Google&logoColor=FDBA18)](https://colab.research.google.com/github/silkdom/DeblurGANv2-Demo/blob/master/DeblurGANv2_Demo.ipynb#scrollTo=fU0aGtD4Nl4W)
+
 ## Overview
 
 We present a new end-to-end generative adversarial network (GAN) for single image motion deblurring, named 
