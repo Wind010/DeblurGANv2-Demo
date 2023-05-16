@@ -6,7 +6,7 @@ import cv2
 import numpy as np
 import torch
 import yaml
-import fire
+from fire import Fire
 from tqdm import tqdm
 
 from aug import get_normalize
